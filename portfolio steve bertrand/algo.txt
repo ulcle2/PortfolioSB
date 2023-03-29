@@ -1,0 +1,10 @@
+exo 1
+
+Fonction carre (nb:entier): entier 2g
+
+debut
+    retourne nb*nb
+fin
+
+
+usage de la fonction
